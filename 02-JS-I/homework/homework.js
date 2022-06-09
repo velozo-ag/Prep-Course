@@ -236,7 +236,7 @@ function obtenerAreaRectangulo(alto, ancho) {
   // Retornar el area de un rectángulo teniendo su altura y ancho
   // Tu código:
 
-  return ((alto * 2) + (ancho * 2));
+  return (alto * ancho);
   
 }
 
